@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/banner.png" alt="Bhuvesh's Banner" width="100%" />
+  <img src="asset/banner _20260602_121209_0000.png" alt="Bhuvesh's Banner" width="100%" />
 </div>
 
 
