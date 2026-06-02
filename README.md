@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="Hi I'm Bhuvesh An AI Enthusiasts_20260602_114748_0000.png" alt="Bhuvesh's Banner" width="100%" />
+  <img src="asset/banner.png" alt="Bhuvesh's Banner" width="100%" />
 </div>
+
 
 # 💫 About Me:
 # 🚀 Hi, I'm Bhuvesh<br><br>> **Building AI-powered products at the intersection of learning, games, and full-stack engineering**<br><br>```<br><br>I'm always interested in:<br>- 💬 Discussing AI applications in education<br>- 🎮 Collaborating on creative game/interactive projects<br>- 🔧 Building full-stack products<br>- 📖 Sharing knowledge on web development & algorithms<br><br><br>
