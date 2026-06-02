@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Bhuvesh&fontSize=50&fontAlignY=40&desc=A%20Web%20Developer%20in%20making&descSize=20&descAlignY=65" alt="Bhuvesh's GitHub Banner" />
+</div>
 # 💫 About Me:
 # 🚀 Hi, I'm Bhuvesh<br><br>> **Building AI-powered products at the intersection of learning, games, and full-stack engineering**<br><br>```<br><br>I'm always interested in:<br>- 💬 Discussing AI applications in education<br>- 🎮 Collaborating on creative game/interactive projects<br>- 🔧 Building full-stack products<br>- 📖 Sharing knowledge on web development & algorithms<br><br><br>
 
