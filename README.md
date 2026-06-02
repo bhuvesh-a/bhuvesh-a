@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="link_to_your_uploaded_image.png" alt="Bhuvesh's Banner" width="100%" />
+  <img src="Hi I'm Bhuvesh An AI Enthusiasts_20260602_114748_0000.png" alt="Bhuvesh's Banner" width="100%" />
 </div>
 
 # 💫 About Me:
